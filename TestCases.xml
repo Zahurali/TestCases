@@ -1,0 +1,16 @@
+<suite name="OrangeHRMDemoTestcases">
+<parameter name="Browser" value="CHROME"/>
+	<test name="LoginTestcases">
+			<classes>
+				<class name="AutiomationFrameWorkTestCasesProjectTestcases.ValidLoginCredentialsTestcase">
+				
+				</class>
+						
+				<class name="AutiomationFrameWorkTestCasesProjectTestcases.InvalidLoginTestCases">
+				
+				</class>
+							
+			</classes>
+		
+	</test>
+</suite>
