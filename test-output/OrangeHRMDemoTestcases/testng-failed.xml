@@ -6,7 +6,7 @@
     <classes>
       <class name="AutiomationFrameWorkTestCasesProjectTestcases.InvalidLoginTestCases">
         <methods>
-          <include name="TestLoginWithInValidCrdentials" invocation-numbers="0 1 2 3 4"/>
+          <include name="TestLoginWithInValidCrdentials"/>
           <include name="Init"/>
         </methods>
       </class> <!-- AutiomationFrameWorkTestCasesProjectTestcases.InvalidLoginTestCases -->

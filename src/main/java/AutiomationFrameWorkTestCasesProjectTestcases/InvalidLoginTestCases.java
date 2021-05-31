@@ -58,8 +58,8 @@ public class InvalidLoginTestCases {
 		Credentials[2][2]="Username cannot be empty";
 
 		//4th Row
-		Credentials[3][0]="Pranoday";
-		Credentials[3][1]="Dingare";
+		Credentials[3][0]="Syed";
+		Credentials[3][1]="Afzal";
 		Credentials[3][2]="Invalid credentials";
 
 		return Credentials;
